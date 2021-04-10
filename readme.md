@@ -88,3 +88,8 @@ alphagraphics@gmail.com
 papelariaaviamentos@gmail.com
 
 Todas utilizam a senha: 12345678
+
+## Colaboradores
+- Enzo de Carvalho Santos - Git: enzocsantos18
+- Carolina Andrade - Git: candrade-ti
+- Ivan Szoboszlay - Git: IvanSzoboszlayJunior341
